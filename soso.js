@@ -1,1 +1,3 @@
-console.log('soso');
+var soso = 'soso.js';
+
+console.log(soso);
